@@ -12,6 +12,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.anchor {
+  text-decoration: none;
+  color: black;
+}
+
 .episodes-layout {
   display: flex;
   flex-wrap: wrap;
